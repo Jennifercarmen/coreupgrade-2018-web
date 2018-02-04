@@ -1,0 +1,49 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 24px;
+    text-align: center;
+}
+*{
+    margin-bottom: 20px;
+}
+header{
+    background-color: yellow;
+    height: 30%;
+    padding: 20px;
+}
+section{
+    width: 100%;
+}
+.white{
+    background-color: white;
+}
+nav{
+    background-color: #f95708;
+    width: 10%;
+    height: 470px;
+    padding: 2%;
+    float: left;
+}
+main{
+    background-color: #daf0bb;
+    padding: 2%;
+    margin-left: 15%;
+}
+article{
+    background-color: #bbf0ee;
+    padding: 1%;
+    font-size: 13px;
+}
+footer{
+    background-color: #efbbf0;
+    height: 30%;
+    padding:  2%;
+    margin-bottom: 0%;
+
+}
+button{
+    background-color: white;
+    padding: 1%;
+}
