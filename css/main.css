@@ -5,16 +5,17 @@ body{
     font-size: 24px;
     text-align: center;
 }
-*{
-    margin-bottom: 20px;
-}
+
 header{
     background-color: yellow;
     height: 30%;
     padding: 20px;
+    margin-bottom: 2%;
 }
 section{
     width: 100%;
+    position: relative;
+    margin-bottom: 2%;
 }
 .white{
     background-color: white;
@@ -22,26 +23,26 @@ section{
 nav{
     background-color: #f95708;
     width: 10%;
-    height: 470px;
+    height: 440px;
     padding: 2%;
-    float: left;
+    position: absolute;
 }
 main{
     background-color: #daf0bb;
     padding: 2%;
+    height: 440px;
     margin-left: 15%;
 }
 article{
     background-color: #bbf0ee;
     padding: 1%;
     font-size: 13px;
+    margin-bottom: 2%;
 }
 footer{
     background-color: #efbbf0;
-    height: 30%;
     padding:  2%;
     margin-bottom: 0%;
-
 }
 button{
     background-color: white;
